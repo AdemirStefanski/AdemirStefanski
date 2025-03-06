@@ -1,7 +1,5 @@
-## Hi there, I'm Ademir 👋
+## Hey, I'm Ademir 👋😺
 
-
-## 😺 About me
 
 I am Ademir Stefanski, a full-stack developer with experience in React, TypeScript, Node.js, and SQL, building scalable applications focused on delivering the best user experience. My technical foundation comes from data processing, where I developed strong programming logic and expertise in C, C++, and Oracle databases. Later, I enhanced my analytical skills through mechanical engineering, applying this knowledge to problem-solving in software development.
 
@@ -36,11 +34,15 @@ I am always open to new challenges and ready to contribute to innovative solutio
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ademirstefanski.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademir-stefanski/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ademirstefanski@gmail.com)](mailto:ademirstefanski@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511981412507)
 
 
 
 ## 📊 Stats
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=ademirstefanski)
+
 ![ademirstefanski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ademirstefanski&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
