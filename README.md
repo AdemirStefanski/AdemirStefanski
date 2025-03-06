@@ -45,7 +45,7 @@ I am always open to new challenges and ready to contribute to innovative solutio
 
 
 
-![Snake animation](https://github.com/ademirstefanski/ademirstefanski/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AdemirStefanski/AdemirStefanski/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
