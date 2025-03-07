@@ -1,4 +1,4 @@
-## Hey, I'm Ademir 👋😺
+## 😺 Hey, I'm Ademir 👋
 
 
 I am Ademir Stefanski, a full-stack developer with experience in React, TypeScript, Node.js, and SQL, building scalable applications focused on delivering the best user experience. My technical foundation comes from data processing, where I developed strong programming logic and expertise in C, C++, and Oracle databases. Later, I enhanced my analytical skills through mechanical engineering, applying this knowledge to problem-solving in software development.
