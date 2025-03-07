@@ -41,13 +41,16 @@ I am always open to new challenges and ready to contribute to innovative solutio
 
 ## 📊 Stats
 
+<div align="center">
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ademirstefanski)
 
-![ademirstefanski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ademirstefanski&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![ademirstefanski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ademirstefanski&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) 
+
+</div>
 
 
-
-![snake gif](https://github.com/AdemirStefanski/AdemirStefanski/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ademirstefanski/ademirstefanski/blob/output/github-snake-dark.svg)
 
 
 <!--
