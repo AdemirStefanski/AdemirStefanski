@@ -2,7 +2,7 @@
 
 **Full-stack Engineer | AI Integration Specialist**
 
-I am Ademir Stefanski, a full-stack developer with experience in React, TypeScript, Node.js, and SQL, building applications focused on delivering the best user experience. I specialize in the intersection of **scalable web architecture** and **Generative AI**.  With 10+ years in visual design, I care deeply about UI/UX.
+I am Ademir Stefanski, a full-stack developer with experience in **React, TypeScript, Node.js, and SQL**, building applications focused on delivering the best user experience. I specialize in the intersection of **scalable web architecture** and **Generative AI**.  With 10+ years in visual design, I care deeply about UI/UX.
 
 My background as a **Rugby captain** and **Judoka** drives my discipline, resilience and teamwork.
 
@@ -10,23 +10,22 @@ _Looking for a developer who gets things done? Let's connect!_
 
 
 ## 🚀 What I'm Working On
-<div>
   
-* **AI Engineering:** Orchestrating asynchronous pipelines for high-volume audio transcription and automated form handling (leveraging **Gemini** & **OpenAI**).
-* **Scalable Systems:** Building high-performance backends and intuitive frontends using the **MERN/MEAN** stacks.
-* **Enterprise Projects:** Recently delivered high-traffic web modules for major clients.
-
-</div>
-
+<ul>
+  <li><strong>AI Engineering:</strong> Orchestrating asynchronous pipelines for high-volume audio transcription and automated form handling</li>
+  <li><strong>Scalable Systems:</strong> Building high-performance backends and intuitive frontends using the **MERN/MEAN** stacks</li>
+</ul>
 
 ## 🛠 Tech Stack
-<div>
   
-* **Core:** TypeScript, JavaScript, Python, Node.js
-* **Frontend:** React, Next.js, Tailwind CSS, React Native
-* **Backend & Data:** PostgreSQL, MongoDB, RESTful APIs, Serverless
-* **AI/LLM:** Gemini API, OpenAI API, LangChain concepts
+<ul>
+  <li><strong>Core:</strong> TypeScript, JavaScript, Python, Node.js</li>
+  <li><strong>Frontend:</strong> React, Next.js, Tailwind CSS, React Native</li>
+  <li><strong>Backend & Data:</strong> PostgreSQL, MongoDB, RESTful APIs, Serverless</li>
+  <li><strong>AI/LLM:</strong> Gemini API, OpenAI API, LangChain concepts</li>
+</ul>
 
+<div>  
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" style="margin: 0 10px;" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" style="margin: 0 10px;" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" style="margin: 0 10px;" />
@@ -45,9 +44,8 @@ _Looking for a developer who gets things done? Let's connect!_
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" style="margin: 0 10px;" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" style="margin: 0 10px;" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" style="margin: 0 10px;" />
-
-
 </div>
+
 
 ## 🔗 Links
 
