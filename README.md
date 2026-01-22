@@ -1,34 +1,55 @@
 ## 😺 Hey, I'm Ademir 👋
 
+**Full-stack Engineer | AI Integration Specialist**
 
-I am Ademir Stefanski, a full-stack developer with experience in React, TypeScript, Node.js, and SQL, building scalable applications focused on delivering the best user experience. My technical foundation comes from data processing, where I developed strong programming logic and expertise in C, C++, and Oracle databases. Later, I enhanced my analytical skills through mechanical engineering, applying this knowledge to problem-solving in software development.
+I am Ademir Stefanski, a full-stack developer with experience in React, TypeScript, Node.js, and SQL, building applications focused on delivering the best user experience. I specialize in the intersection of **scalable web architecture** and **Generative AI**.  With 10+ years in visual design, I care deeply about UI/UX.
 
-I work with modern technologies such as Next.js, Tailwind CSS, and RESTful APIs, always following best practices and agile methodologies like Scrum and Kanban. My background in photography and design has sharpened my aesthetic sense and ability to create intuitive interfaces. Additionally, my experience in rugby and judo has strengthened my discipline, resilience, and teamwork skills.
+My background as a **Rugby captain** and **Judoka** drives my discipline, resilience and teamwork.
 
-I am always open to new challenges and ready to contribute to innovative solutions.
+_Looking for a developer who gets things done? Let's connect!_
 
+
+## 🚀 What I'm Working On
+<div>
+  
+* **AI Engineering:** Orchestrating asynchronous pipelines for high-volume audio transcription and automated form handling (leveraging **Gemini** & **OpenAI**).
+* **Scalable Systems:** Building high-performance backends and intuitive frontends using the **MERN/MEAN** stacks.
+* **Enterprise Projects:** Recently delivered high-traffic web modules for major clients.
+
+</div>
 
 
 ## 🛠 Tech Stack
 <div>
-<img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img align="center" alt="Vite" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-<img align="center" alt="Axios" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />  
-<img align="center" alt="Node.js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="MySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Next.js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="center" alt="Tailwind CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="center" alt="Bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="center" alt="Adobe Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  
+* **Core:** TypeScript, JavaScript, Python, Node.js
+* **Frontend:** React, Next.js, Tailwind CSS, React Native
+* **Backend & Data:** PostgreSQL, MongoDB, RESTful APIs, Serverless
+* **AI/LLM:** Gemini API, OpenAI API, LangChain concepts
+
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" alt="Angular" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" title="Axios" alt="Axios" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Adobe Photoshop" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" style="margin: 0 10px;" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" style="margin: 0 10px;" />
+
+
 </div>
-
-
 
 ## 🔗 Links
 
