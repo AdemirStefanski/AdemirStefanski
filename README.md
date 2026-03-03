@@ -13,7 +13,7 @@ _Looking for a developer who gets things done? Let's connect!_
   
 <ul>
   <li><strong>AI Engineering:</strong> Orchestrating asynchronous pipelines for high-volume audio transcription and automated form handling</li>
-  <li><strong>Scalable Systems:</strong> Building high-performance backends and intuitive frontends using the **MERN/MEAN** stacks</li>
+  <li><strong>Scalable Systems:</strong> Building high-performance backends and intuitive frontends using the MERN / MEAN stacks</li>
 </ul>
 
 ## 🛠 Tech Stack
@@ -61,7 +61,7 @@ _Looking for a developer who gets things done? Let's connect!_
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ademirstefanski)
 
-![ademirstefanski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ademirstefanski&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) 
+![Top Langs](./profile/top-langs.svg)
 
 </div>
 
